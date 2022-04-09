@@ -311,17 +311,17 @@
   background-color: #1f1f1f;
 }
 
-.place_footer {
+.logo_place_footer {
   background: url(../images/logo_place_footer.svg);
 }
 
 .footer__author {
- margin: 18px 0 18px 0;
- padding: 0;
- line-height: 25px;
- font-size: 18px;
- font-weight: normal;
- color: white;
+  margin: 18px 0 18px 0;
+  padding: 0;
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
 }
 
 .footer__columns {
@@ -338,17 +338,17 @@
   flex-direction: column;
 }
 
-.content_copyright {
+.footer__column_content_copyright {
   flex-basis: 711px;
   justify-content: space-between;
 }
 
-.content_info {
+.footer__column_content_info {
   margin: 0;
   padding: 0;
 }
 
-.content_social {
+.footer__column_content_social {
   margin: 0;
   padding: 0;
 }
