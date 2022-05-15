@@ -45,7 +45,7 @@ include links to useful resources.
 ---
 ### Technologies in the project
 
-* BEM methodology (код, файловая структура)
+* BEM methodology (code, file structure)
 * Flexbox
 * CSS positioning elements
 * iframe
